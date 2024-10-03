@@ -118,7 +118,7 @@ const Pricing = () => {
                 </ul>
               </div>
               <div className="mt-10">
-                <button className="w-full  items-center justify-center gap-2 text-2xl hover:bg-orange-500 text-orange-500 font-semibold rounded-md border-2 border-orange-500 px-4 py-1 hover:text-white md:flex hidden duration-200">
+                <button className="w-full  items-center justify-center gap-2 text-2xl hover:bg-orange-500 text-orange-500 font-semibold rounded-md border-2 border-orange-500 px-4 py-1 hover:text-white md:flex  duration-200">
                   Qoşul
                 </button>
               </div>
@@ -216,7 +216,7 @@ const Pricing = () => {
                 </ul>
               </div>
               <div className="mt-10">
-                <button className="w-full  items-center justify-center gap-2 text-2xl hover:bg-orange-500 text-orange-500 font-semibold rounded-md border-2 border-orange-500 px-4 py-1 hover:text-white md:flex hidden duration-200">
+                <button className="w-full  items-center justify-center gap-2 text-2xl hover:bg-orange-500 text-orange-500 font-semibold rounded-md border-2 border-orange-500 px-4 py-1 hover:text-white md:flex  duration-200">
                   Qoşul
                 </button>
               </div>
@@ -314,7 +314,7 @@ const Pricing = () => {
                 </ul>
               </div>
               <div className="mt-10">
-                <button className="w-full  items-center justify-center gap-2 text-2xl hover:bg-orange-500 text-orange-500 font-semibold rounded-md border-2 border-orange-500 px-4 py-1 hover:text-white md:flex hidden duration-200">
+                <button className="w-full  items-center justify-center gap-2 text-2xl hover:bg-orange-500 text-orange-500 font-semibold rounded-md border-2 border-orange-500 px-4 py-1 hover:text-white md:flex  duration-200">
                   Qoşul
                 </button>
               </div>
